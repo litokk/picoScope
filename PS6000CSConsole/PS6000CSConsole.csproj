@@ -83,10 +83,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\shared\PicoPinnedArray.cs">
+    <Compile Include="PicoPinnedArray.cs">
       <Link>PicoPinnedArray.cs</Link>
     </Compile>
-    <Compile Include="..\..\shared\PicoStatus.cs">
+    <Compile Include="PicoStatus.cs">
       <Link>PicoStatus.cs</Link>
     </Compile>
     <Compile Include="..\PS6000Imports.cs">
